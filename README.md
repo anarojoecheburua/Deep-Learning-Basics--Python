@@ -1,4 +1,6 @@
 # Deep-Learning-Basics--Python
+
+(IN PROGRESS)
 A compilation of illustrative examples of some classical deep learning techniques
 
 This repository contains a collection of pedagogic examples on deep learning techniques
